@@ -17,6 +17,11 @@
 
 ##### We saw the need for our project due to the present situation where people try their best to make the least contact with the people outside. If you can shop and eat online then why not vote ?? Initially we are planning to implement it in one sector of the university, like student club's or unions but later, as the requirement increases, so will the innovation!!!
 
+## A Quick Guide
+### Intallation Guide and Code are in folder : Online_voting_system
+### Final Presentation and report is under folder : Project storytelling final documents
+### Rest all project related documents are in other two folder as per their names: Project design architecture Documents and Project prerequisites and planning Documents
+
 ## Activity V-logs
 #### Project idea selection & introduction vlog (Activity 1)- https://www.youtube.comwatchv=WL7dGYpT0xU
 
