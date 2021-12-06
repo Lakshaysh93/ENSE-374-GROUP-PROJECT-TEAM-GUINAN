@@ -23,12 +23,12 @@
 ### Rest all project related documents are in other two folder as per their names: Project design architecture Documents and Project prerequisites and planning Documents
 
 ## Activity V-logs
-#### Project idea selection & introduction vlog (Activity 1)- https://www.youtube.comwatchv=WL7dGYpT0xU
+#### Project idea selection & introduction vlog (Activity 1)- https://www.youtube.com/watch?v=WL7dGYpT0xU
 
 #### Project prerequisites/planning(Activity 2) - https://youtu.be/-FFOxKog9ks
 
 #### Project design architecture(Activity 3)- https://youtu.be/4kjJW835Jls
 
-#### Project storytelling (Activity 4)- https://www.youtube.com/watch?v=dgbn2MXnMVA
+#### Project storytelling (Activity 4)- https://www.youtube.com/watch?v=EL7Pk2QMp6I
 
 ---
